@@ -1,6 +1,6 @@
-# Microscopy-Image-Enhancement
-This repository provides python implementation of our work "VBET: Vesselness and Blob Enhancement Technique for 2D and 3D Microscopy Images of Mirroglia". 
-This method is designed for microscopy image enhancement of cells with joint Blob-and-Vessel like structure, for example, microglia cells, astrocytes, etc.
+# Microscopy Image Enhancement
+This repository provides a Python implementation of our work "VBET: Vesselness and Blob Enhancement Technique for 2D and 3D Microscopy Images of Microglia".
+This method is designed for microscopy image enhancement of cells with joint blob-and-vessel like structures, such as microglia, astrocytes, oligodendrocyte precursor cells (OPCs), neurons, endothelial cells, and retinal Müller glia.
 
 The proposed enhancement method works for enhancing both 2D image and 3D image stacks. To perform 2D enhancement, run 'demo_2D.py' and for 3D enhancement, run 'demo_3D.py'.
 
